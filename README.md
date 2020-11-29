@@ -1,5 +1,5 @@
 # PagineGialleGo
-Estrarre grandi quantità di dati da paginegialle.it in forma tabulare senza sforzi.
+Estrarre grandi quantità di dati da [PagineGialle](http://paginegialle.it) in forma tabulare senza sforzi.
 
 ## Come usarlo
 
